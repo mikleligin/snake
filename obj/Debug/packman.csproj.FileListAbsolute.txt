@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\packman\packman\bin\Debug\packman.exe.config
+C:\Users\User\source\repos\packman\packman\bin\Debug\packman.exe
+C:\Users\User\source\repos\packman\packman\bin\Debug\packman.pdb
+C:\Users\User\source\repos\packman\packman\obj\Debug\packman.csprojAssemblyReference.cache
+C:\Users\User\source\repos\packman\packman\obj\Debug\packman.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\packman\packman\obj\Debug\packman.exe
+C:\Users\User\source\repos\packman\packman\obj\Debug\packman.pdb
